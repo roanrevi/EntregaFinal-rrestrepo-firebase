@@ -1,0 +1,2 @@
+# VIVACOMMERCE
+Esta aplicación es lo que busca presentar al equipo de trabado de la una sede de atención médica, donde se describe a cada una de las personas por su nombre, cargo y fecha de ingreso. El objetivo final es realizar equipos de trabajo para realizar varias actividades, por ejemplo, si se requiere hacer una brigada con niños, que personal puedo usar para esa brigada y si tengo el personal suficiente o adecuado según el cargo.
